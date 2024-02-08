@@ -9,12 +9,6 @@ export default {
       lg: '976px',
       xl: '1440px',
     },
-    colors: {
-      'primary-green': '#12372A',
-      'secondary-green': '#436850',
-      'shadow-green': '#ADBC9F',
-      'base-yellow': '#FBFADA',
-    },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
@@ -27,6 +21,12 @@ export default {
       },
       borderRadius: {
         '4xl': '2rem',
+      },
+      colors: {
+        'primary-green': '#12372A',
+        'secondary-green': '#436850',
+        'shadow-green': '#ADBC9F',
+        'base-yellow': '#FBFADA',
       },
     },
   },
